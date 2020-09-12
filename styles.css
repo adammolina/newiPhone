@@ -1,5 +1,9 @@
 body {
-  background-color: #529BF2;
+  background-color: #F9F9FB;
   margin: 0;
   padding: 0;
+}
+
+h2 {
+  color: black;
 }
